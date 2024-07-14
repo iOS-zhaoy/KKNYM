@@ -8,7 +8,11 @@
 import UIKit
 
 class TestModel: NSObject {
-    func  testLog() {
+    func testLog() {
         print("Test")
+    }
+    
+    func addLog() {
+        print("add")
     }
 }
