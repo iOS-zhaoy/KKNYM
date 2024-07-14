@@ -1,0 +1,6 @@
+framework module KKNYM {
+  umbrella header "KKNYM-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_KKNYM_Example {
+  umbrella header "Pods-KKNYM_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
